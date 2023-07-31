@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm James Marius Santos</h1>
+<h1 align="center">I'm James Marius Santos</h1>
 <h3 align="center">A passionate 2nd year College Student from the Philippines</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
