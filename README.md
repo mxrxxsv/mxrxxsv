@@ -2,9 +2,7 @@
 <h3 align="center">A passionate 2nd year College Student from the Philippines</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
-/*- 🌱 I’m currently learning **html, css, java,*/ javascript**
 
-//- 📫 How to reach me **mariusjamess26@gmail.com**//
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
