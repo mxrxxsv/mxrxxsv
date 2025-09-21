@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm James Marius Santos</h1>
+<h1 align="center">Hi, I'm James Marius Santos</h1>
 <h3 align="center">A Passionate 4th Year Computer Science Student from the Philippines</h3>
 
 ---
@@ -10,7 +10,7 @@
 
 ---
 
-### 🤝 Connect with Me
+### Connect with Me
 <p align="left">
   <a href="https://www.facebook.com/jamesmarius.26/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/>
@@ -31,7 +31,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 <p align="left">
   <!-- Core Languages -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -78,7 +78,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mxrxxsv&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
 </p>
