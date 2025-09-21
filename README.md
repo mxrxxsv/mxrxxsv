@@ -3,8 +3,8 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🌱 Currently learning **HTML, CSS, Java, JavaScript**
+### About Me
+- 🌱 Currently learning **Java, JavaScript, Typescript, NodeJS**
 - 💡 Interested in **Web Development, Databases, and Software Engineering**
 - 📫 Reach me at: **mariusjamess26@gmail.com**
 
