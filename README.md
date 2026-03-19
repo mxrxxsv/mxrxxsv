@@ -19,7 +19,9 @@
 
 ###
 
-<img align="left" height="150" src="https://assets-v2.lottiefiles.com/a/4e784ad0-f128-11ee-bbb7-b76f60dbd4ce/shoJtcsKZ0.gif"  />
+<div align="center">
+  <img align="center" height="200" src="https://assets-v2.lottiefiles.com/a/4e784ad0-f128-11ee-bbb7-b76f60dbd4ce/shoJtcsKZ0.gif"  />
+</div>
 
 ###
 
