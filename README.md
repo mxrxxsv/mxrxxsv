@@ -1,6 +1,11 @@
 <h1 align="center">Hi, I'm James Marius Santos</h1>
 <!-- <h3 align="center">A Passionate 4th Year Computer Science Student from the Philippines</h3> -->
 
+###
+<div>
+  <img width="2125" height="550" alt="github-header-banner" src="https://github.com/user-attachments/assets/20cd1917-0880-4bb2-a843-c4ca6faffa85" />
+</div>
+
 ---
 
 ### About Me
@@ -14,6 +19,7 @@
 <div align="center">
   <img align="center" height="200" src="https://assets-v2.lottiefiles.com/a/4e784ad0-f128-11ee-bbb7-b76f60dbd4ce/shoJtcsKZ0.gif"  />
 </div>
+
 
 ###
 
