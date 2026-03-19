@@ -2,10 +2,6 @@
 <!-- <h3 align="center">A Passionate 4th Year Computer Science Student from the Philippines</h3> -->
 
 ###
-<div>
-  <img width="2125" height="550" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/503c83e9-e771-425d-a39a-f770445cc70a" />
-</div>
-
 ---
 
 ### About Me
