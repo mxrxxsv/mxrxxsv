@@ -5,7 +5,7 @@
 ---
 
 ### About Me
-- Currently learning **Grails, Java, Groovy**
+- Currently learning **Grails, Java, Groovy, React Native**
 - Interested in **Data Analytcis, and Software Engineering**
 - Reach me at: **mariusjamess26@gmail.com**
 
