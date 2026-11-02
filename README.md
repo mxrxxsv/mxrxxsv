@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Marius</h1>
-<!-- <h3 align="center">A Passionate 4th Year Computer Science Student from the Philippines</h3> -->
 
 ###
 ---
